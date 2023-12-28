@@ -1,4 +1,6 @@
 Task: Provide Insights to Executive Management in the Consumer Goods Domain.
+
+
 Tools Used: SQL for data queries, Power BI for visualization, and PowerPoint for presentation.
 🎯 Project Highlights:
 1️⃣ Analyzed 10 ad-hoc requests from 'ad-hoc-requests.pdf'.
